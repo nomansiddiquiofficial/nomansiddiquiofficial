@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nomansiddiquiofficial
-- 👀 I’m interested to Code with Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested to Code with Python, C#
+- 🌱 I’m currently Asp.Net Core
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me just leave a WhatsApp msg +923223885443
 
 <!---
